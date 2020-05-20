@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">todoboom</string>
+    <string name="before_click">before click</string>
+    <string name="after_click">After Clicking</string>
+</resources>
